@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { useAppContext } from "../context/AppContext"
 import { useTheme } from "../context/ThemeContext";
-import type { ProfileFormData, UserData } from "../types";
+// import type { ProfileFormData, UserData } from "../types";
+import type { ProfileFormData } from "../types";
 import Card from "../components/ui/Card";
 import { Calendar, LogOutIcon, MoonIcon, Scale, SunIcon, Target, User } from "lucide-react";
 import Button from "../components/ui/Button";
