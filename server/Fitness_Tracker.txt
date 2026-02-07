@@ -1,0 +1,21 @@
+{
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzcwNDAwNTU3LCJleHAiOjE3NzI5OTI1NTd9.CSAKrjwt74htpXe5VwDMxpH1HAR3GOpQUNUkCbwxp0g",
+    "user": {
+        "id": 1,
+        "documentId": "rowfmlhts56il5alp8tpjck0",
+        "username": "greatstack",
+        "email": "demo@gmail.com",
+        "provider": "local",
+        "confirmed": true,
+        "blocked": false,
+        "createdAt": "2026-02-06T17:55:56.876Z",
+        "updatedAt": "2026-02-06T17:55:56.876Z",
+        "publishedAt": "2026-02-06T17:55:56.876Z",
+        "age": null,
+        "weight": null,
+        "height": null,
+        "goal": null,
+        "dailyCalorieIntake": null,
+        "dailyCalorieBurn": null
+    }
+}
